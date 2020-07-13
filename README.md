@@ -2,6 +2,12 @@
 
 A Personal Expenses Flutter application.
 
+## Screenshot
+
+<img src="https://github.com/Alfaizkhan/Personal-Expenses/blob/master/screenshot-1594639105721.jpg"  width="240" height="480">&nbsp;&nbsp; | <img src="https://github.com/Alfaizkhan/Personal-Expenses/blob/master/screenshot-1594640051450.jpg" width="240" height="480">
+
+<img src="https://github.com/Alfaizkhan/Personal-Expenses/blob/master/screenshot-1594639098602.jpg" width="240" height="480">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
